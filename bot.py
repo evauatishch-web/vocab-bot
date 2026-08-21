@@ -16,7 +16,7 @@ from telegram.ext import (
 #  НАСТРОЙКИ
 # ═══════════════════════════════════════════════════════════════════════════════
 
-TOKEN = "ВАШ_ТОКЕН_СЮДА"   # ← вставь токен от @BotFather
+TOKEN = "8946526999:AAFqRf5bT9Yd1-NHxIi82c5AohG3npF7dmQ"   # ← вставь токен от @BotFather
 DATA_DIR = "data"           # папка с JSON-файлами пользователей
 
 logging.basicConfig(
